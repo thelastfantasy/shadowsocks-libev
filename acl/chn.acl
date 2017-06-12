@@ -1,8 +1,7 @@
 [bypass_all]
-(^|\.).cdndm5.com$
-
+(^|\w+\.(\w+\-?)+)\.cdndm5?.com(\n|$)
 [proxy_all]
-(^|\.)mangaapi\.manhuaren\.com$
+(^|\.)mangaapi\.manhuaren\.com(\n|$)
 
 [bypass_list]
 1.0.1.0/24
