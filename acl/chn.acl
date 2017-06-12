@@ -1,5 +1,8 @@
+[bypass_all]
+(^|\.).cdndm5.com$
+
 [proxy_all]
-mangaapi.manhuaren.com
+(^|\.)mangaapi\.manhuaren\.com$
 
 [bypass_list]
 1.0.1.0/24
