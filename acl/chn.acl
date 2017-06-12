@@ -1,4 +1,5 @@
 [proxy_all]
+mangaapi.manhuaren.com
 
 [bypass_list]
 1.0.1.0/24
